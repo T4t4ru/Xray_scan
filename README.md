@@ -24,6 +24,13 @@ This is a C++ program that performs the following actions:
 Please note that the `system` function in C++ may present potential security issues. You may need to replace this function with safer options such as `fork` and `exec'.
 
 The program has been tested and developed for use on Linux. If you are using a different operating system, you will need to adapt the code.
+The information provided here is for educational purposes only. It is not intended to be used in illegal activities or actions that violate the rights of other people or organizations.
+
+As the author, I am not responsible for any illegal actions related to the use of this information, and I do not support the illegal use of hacking skills and tools.
+
+Users who use this information for illegal purposes do so at their own risk and should be prepared for possible legal consequences.
+
+It is strongly recommended to use the acquired knowledge only for educational or legal purposes, for example, to strengthen the protection of your own computer system.
 
 ## License
 
